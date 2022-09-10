@@ -1,0 +1,17 @@
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/Kropka_bot
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/Kropka_bot.deps.json
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/Kropka_bot.runtimeconfig.json
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/Kropka_bot.runtimeconfig.dev.json
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/Kropka_bot.dll
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/Kropka_bot.pdb
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/Telegram.Bot.dll
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/obj/Release/netcoreapp3.1/Kropka_bot.csproj.AssemblyReference.cache
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/obj/Release/netcoreapp3.1/Kropka_bot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/obj/Release/netcoreapp3.1/Kropka_bot.AssemblyInfoInputs.cache
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/obj/Release/netcoreapp3.1/Kropka_bot.AssemblyInfo.cs
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/obj/Release/netcoreapp3.1/Kropka_bot.csproj.CoreCompileInputs.cache
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/obj/Release/netcoreapp3.1/Kropka_bot.csproj.CopyComplete
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/obj/Release/netcoreapp3.1/Kropka_bot.dll
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/obj/Release/netcoreapp3.1/Kropka_bot.pdb
+/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/obj/Release/netcoreapp3.1/Kropka_bot.genruntimeconfig.cache
