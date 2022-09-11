@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  kropka_bot:
+    image: ${DOCKER_REGISTRY-}kropkabot
+    build:
+      context: .
+      dockerfile: Kropka_bot/Dockerfile
