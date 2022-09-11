@@ -1,7 +1,0 @@
-/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/publish/Kropka_bot
-/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/publish/Kropka_bot.dll
-/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/publish/Kropka_bot.deps.json
-/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/publish/Kropka_bot.runtimeconfig.json
-/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/publish/Kropka_bot.pdb
-/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/publish/Newtonsoft.Json.dll
-/Users/daniiltolkachev/Projects/Kropka_bot/Kropka_bot/bin/Release/netcoreapp3.1/publish/Telegram.Bot.dll
