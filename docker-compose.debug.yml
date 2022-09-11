@@ -1,0 +1,11 @@
+
+version: '3.4'
+
+services:
+  kropkabot:
+    image: kropkabot
+    build:
+      context: .
+      dockerfile: maramora_tg_bot/Kropka_bot/Kropka_bot/Dockerfile
+    volumes:
+      - ~/.vsdbg:/remote_debugger:rw
