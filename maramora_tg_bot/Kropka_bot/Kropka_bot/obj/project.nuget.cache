@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "feRQ1MCNjW/SZT5mY/ZBY30bURM/ilTOVbqIGxbzJN5DaAcRrQ3CTqFmgZG++qM3AUdQa4tGDFc5EhXIQ9g7jw==",
+  "dgSpecHash": "jCd8nEdL+uhEyb94NOxT88hYsHdHy2e8TYwZl4+ybL3gURYUG111n+m6SqOaFmyZLXONrMmHUz0FLJIT+yx42w==",
   "success": true,
-  "projectFilePath": "/Users/daniiltolkachev/maramora_tg_bot-1/maramora_tg_bot/Kropka_bot/Kropka_bot/Kropka_bot.csproj",
+  "projectFilePath": "/Users/daniiltolkachev/maramora_tg_bot-2/maramora_tg_bot/Kropka_bot/Kropka_bot/Kropka_bot.csproj",
   "expectedPackageFiles": [
     "/Users/daniiltolkachev/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
     "/Users/daniiltolkachev/.nuget/packages/telegram.bot/18.0.0/telegram.bot.18.0.0.nupkg.sha512"

@@ -94,11 +94,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daniiltolkachev/maramora_tg_bot-1/maramora_tg_bot/Kropka_bot/Kropka_bot/Kropka_bot.csproj",
+      "projectUniqueName": "/Users/daniiltolkachev/maramora_tg_bot-2/maramora_tg_bot/Kropka_bot/Kropka_bot/Kropka_bot.csproj",
       "projectName": "Kropka_bot",
-      "projectPath": "/Users/daniiltolkachev/maramora_tg_bot-1/maramora_tg_bot/Kropka_bot/Kropka_bot/Kropka_bot.csproj",
+      "projectPath": "/Users/daniiltolkachev/maramora_tg_bot-2/maramora_tg_bot/Kropka_bot/Kropka_bot/Kropka_bot.csproj",
       "packagesPath": "/Users/daniiltolkachev/.nuget/packages/",
-      "outputPath": "/Users/daniiltolkachev/maramora_tg_bot-1/maramora_tg_bot/Kropka_bot/Kropka_bot/obj/",
+      "outputPath": "/Users/daniiltolkachev/maramora_tg_bot-2/maramora_tg_bot/Kropka_bot/Kropka_bot/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/daniiltolkachev/.nuget/NuGet/NuGet.Config"
